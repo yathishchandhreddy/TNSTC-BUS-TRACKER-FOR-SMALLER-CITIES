@@ -11,8 +11,7 @@ A web application designed to track and manage local city bus routes and schedul
 ## 🛠️ Tech Stack & Tools Used
 - **Frontend Framework**: React.js with Vite
 - **Programming Languages**: JavaScript / TypeScript, HTML5, CSS3
-- **AI Tooling**: Google AI Studio (for code generation and architecture planning)
-- **Hosting & Deployment**: GitHub Pages
+- **Hosting & Deployment**: GitHub Pages and vercel
 
 ## 📦 How to Run Locally
 Follow these steps to run the development environment on your machine:
